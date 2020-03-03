@@ -1,0 +1,1 @@
+docker run -d -p 80:80 -v $(pwd)/dist:/usr/share/nginx/html nginx:1.17.8-alpine

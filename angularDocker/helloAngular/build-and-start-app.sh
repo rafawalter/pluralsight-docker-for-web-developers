@@ -1,0 +1,1 @@
+docker build -t hello-angular-local -f local.dockerfile . && docker run -it -p 8080:4200 --name hello-angular-local hello-angular-local

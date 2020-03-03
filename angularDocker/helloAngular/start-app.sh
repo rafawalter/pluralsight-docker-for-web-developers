@@ -1,0 +1,1 @@
+docker run -it -p 8080:4200 --name hello-angular-local hello-angular-local
