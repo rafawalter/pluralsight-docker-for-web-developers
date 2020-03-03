@@ -1,1 +1,1 @@
-docker build -t helloAngular .
+docker build -t hello-angular .

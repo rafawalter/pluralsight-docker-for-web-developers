@@ -1,1 +1,1 @@
-docker run -it -p 8080:80 --name heloAngular hello-angular
+docker run -it -p 8080:80 --name helo-angular hello-angular

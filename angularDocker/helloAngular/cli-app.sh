@@ -1,0 +1,1 @@
+docker exec -i -t hello-docker sh
